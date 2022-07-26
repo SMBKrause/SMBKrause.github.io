@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.L.E. Bodelier | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/p.l.e.-bodelier/</link>
+      <atom:link href="https://SMBKrause.github.io/author/p.l.e.-bodelier/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.L.E. Bodelier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>P.L.E. Bodelier</title>
+      <link>https://SMBKrause.github.io/author/p.l.e.-bodelier/</link>
+    </image>
+    
+    <item>
+      <title>Microbial trait-based approaches for agroecosystems</title>
+      <link>https://SMBKrause.github.io/publication/2022-01-01_microbial_trait-base/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2022-01-01_microbial_trait-base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental legacy contributes to the resilience of methane consumption in a laboratory microcosm system</title>
+      <link>https://SMBKrause.github.io/publication/2018-01-01_environmental_legacy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2018-01-01_environmental_legacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrence and frequency of disturbance have cumulative effect on methanotrophic activity, abundance, and community structure</title>
+      <link>https://SMBKrause.github.io/publication/2016-01-01_recurrence_and_frequ/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2016-01-01_recurrence_and_frequ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compositional and functional stability of aerobic methane consuming communities in drained and rewetted peat meadows</title>
+      <link>https://SMBKrause.github.io/publication/2015-01-01_compositional_and_fu/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2015-01-01_compositional_and_fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trait-based approaches for understanding microbial biodiversity and ecosystem functioning</title>
+      <link>https://SMBKrause.github.io/publication/2014-01-01_trait-based_approach/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2014-01-01_trait-based_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak phylogenetic signal in physiological traits of methane-oxidizing bacteria</title>
+      <link>https://SMBKrause.github.io/publication/2014-01-01_weak_phylogenetic_si/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2014-01-01_weak_phylogenetic_si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing functional traits and ecological characteristics of methane-oxidizing bacteria as life strategies</title>
+      <link>https://SMBKrause.github.io/publication/2013-01-01_conceptualizing_func/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2013-01-01_conceptualizing_func/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns of methanotrophic communities along a hydrological gradient in a riparian wetland</title>
+      <link>https://SMBKrause.github.io/publication/2013-01-01_spatial_patterns_of_/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2013-01-01_spatial_patterns_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns of iron- and methane-oxidizing bacterial communities in an irregularly flooded, riparian wetland</title>
+      <link>https://SMBKrause.github.io/publication/2012-01-01_spatial_patterns_of_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2012-01-01_spatial_patterns_of_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

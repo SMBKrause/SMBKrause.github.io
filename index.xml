@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/</link>
+      <atom:link href="https://SMBKrause.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>SMB Krause Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>SMB Krause Lab</title>
+      <link>https://SMBKrause.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://SMBKrause.github.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Associate Editor for Frontiers in Microbiology</title>
+      <link>https://SMBKrause.github.io/post/2022-04-13-frontiers-editorial-board-member/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/post/2022-04-13-frontiers-editorial-board-member/</guid>
+      <description>&lt;p&gt;Congratulations to Sascha M.B. Krause for becoming a Associate Editor for Frontiers in Microbiology&lt;/p&gt;
+&lt;p&gt;Link to journal&amp;rsquo;s website:
+&lt;a href=&#34;https://www.frontiersin.org/journals/microbiology?utm_source=ad&amp;amp;utm_medium=ggl-src&amp;amp;utm_campaign=sub_ggl_fmicb&amp;amp;gclid=Cj0KCQjwlemWBhDUARIsAFp1rLUWgVCfwcRgmovpbIA03Icb4UJOJGZGMeoV8GvVzXF2H3GRTHj-4KoaAtfmEALw_wcB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.frontiersin.org/journals/microbiology?utm_source=ad&amp;utm_medium=ggl-src&amp;utm_campaign=sub_ggl_fmicb&amp;gclid=Cj0KCQjwlemWBhDUARIsAFp1rLUWgVCfwcRgmovpbIA03Icb4UJOJGZGMeoV8GvVzXF2H3GRTHj-4KoaAtfmEALw_wcB&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Microbial trait-based approaches for agroecosystems</title>
+      <link>https://SMBKrause.github.io/publication/2022-01-01_microbial_trait-base/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2022-01-01_microbial_trait-base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sascha M.B. Krause appointed as guest researcher at the NIOO-KNAW</title>
+      <link>https://SMBKrause.github.io/post/2021-12-22-guest-researcher-nioo/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/post/2021-12-22-guest-researcher-nioo/</guid>
+      <description>&lt;p&gt;Sascha M.B. Krause started a guest researcher stay at the Netherlands Institute of Ecology in Wageningen, the Netherlands.&lt;/p&gt;
+&lt;p&gt;During his stay he will work on species interactions of methane-consuming bacteria and associated non-methanotrophic heterotrophs.&lt;/p&gt;
+&lt;p&gt;More info here: &lt;a href=&#34;https://nioo.knaw.nl/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nioo.knaw.nl/en&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Editorial board member of iMeta</title>
+      <link>https://SMBKrause.github.io/post/2021-11-18-imeta-board-membership/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/post/2021-11-18-imeta-board-membership/</guid>
+      <description>&lt;p&gt;Congratulations to Sascha M.B. Krause for becoming a part on the editorial board of iMeta&lt;/p&gt;
+&lt;p&gt;iMeta is a new multi-media, open access journal uniting metagenomics and bioinformatics research.&lt;/p&gt;
+&lt;p&gt;Link to journal&amp;rsquo;s website:
+&lt;a href=&#34;https://www.sciencedirect.com/journal/european-journal-of-soil-biology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/journal/european-journal-of-soil-biology&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Changes in assembly processes of soil microbial communities during secondary succession in two subtropical forests</title>
+      <link>https://SMBKrause.github.io/publication/2021-01-01_changes_in_assembly_/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2021-01-01_changes_in_assembly_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovery of Methanotrophic Activity Is Not Reflected in the Methane-Driven Interaction Network after Peat Mining</title>
+      <link>https://SMBKrause.github.io/publication/2021-01-01_recovery_of_methanot/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2021-01-01_recovery_of_methanot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil aeration rather than methanotrophic community drives methane uptake under drought in a subtropical forest</title>
+      <link>https://SMBKrause.github.io/publication/2021-01-01_soil_aeration_rather/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2021-01-01_soil_aeration_rather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Tangible Effects of Field-Grown Cisgenic Potatoes on Soil Microbial Communities</title>
+      <link>https://SMBKrause.github.io/publication/2020-01-01_no_tangible_effects_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2020-01-01_no_tangible_effects_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil properties and habitats determine the response of bacterial communities to agricultural wastewater irrigation</title>
+      <link>https://SMBKrause.github.io/publication/2020-01-01_soil_properties_and_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2020-01-01_soil_properties_and_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sascha M.B. Krause research featured by the US Department of Energy</title>
+      <link>https://SMBKrause.github.io/post/2019-12-01-doe-highlight/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/post/2019-12-01-doe-highlight/</guid>
+      <description>&lt;p&gt;Congratulations to Sascha M.B. Krause for his research featured by the US Department of Energy&lt;/p&gt;
+&lt;p&gt;Methane, a potent greenhouse gas, are produced during decomposition of plant matter in the sediments of lakes and wetlands. Certain bacteria consume much of this methane, reducing the net amount released into the atmosphere. In this study, Dr. Krause examined community interactions between methane-consuming bacteria such as methanotrophs and other associated microbes. It appears that the methanotrophs receive signals from other bacteria in the community to convert some of the methane to methanol. The methanol serves as food for those non-consumers of methane. These results suggest certain microbial community partners can alter gene expression in other community members. This alteration has important implications for microbial interactions in the environment.&lt;/p&gt;
+&lt;p&gt;Read the full original post here: &lt;a href=&#34;https://www.energy.gov/science/ber/articles/microbial-community-interactions-drive-methane-consumption-lakes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.energy.gov/science/ber/articles/microbial-community-interactions-drive-methane-consumption-lakes&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Editorial board member of the European Journal of Soil Biology (EJSB)</title>
+      <link>https://SMBKrause.github.io/post/2019-11-02-ejosb-board-membership/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/post/2019-11-02-ejosb-board-membership/</guid>
+      <description>&lt;p&gt;Congratulations to Sascha M.B. Krause for becoming a part on the editorial board of EJSB&lt;/p&gt;
+&lt;p&gt;Link to journal&amp;rsquo;s website:
+&lt;a href=&#34;https://www.sciencedirect.com/journal/european-journal-of-soil-biology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/journal/european-journal-of-soil-biology&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://SMBKrause.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethylene rather than acetylene inhibits soil methane oxidation rates in a subtropical evergreen forest</title>
+      <link>https://SMBKrause.github.io/publication/2019-01-01_ethylene_rather_than/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2019-01-01_ethylene_rather_than/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methanotroph Ecology, Environmental Distribution and Functioning</title>
+      <link>https://SMBKrause.github.io/publication/2019-01-01_methanotroph_ecology/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2019-01-01_methanotroph_ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil extractable organic C and N contents, methanotrophic activity under warming and degradation in a Tibetan alpine meadow</title>
+      <link>https://SMBKrause.github.io/publication/2019-01-01_soil_extractable_org/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2019-01-01_soil_extractable_org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental legacy contributes to the resilience of methane consumption in a laboratory microcosm system</title>
+      <link>https://SMBKrause.github.io/publication/2018-01-01_environmental_legacy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2018-01-01_environmental_legacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lanthanide-dependent cross-feeding of methane-derived carbon is linked by microbial community interactions</title>
+      <link>https://SMBKrause.github.io/publication/2017-01-01_lanthanide-dependent/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2017-01-01_lanthanide-dependent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A synthetic ecology perspective: How well does behavior of model organisms in the laboratory predict microbial activities in natural habitats?</title>
+      <link>https://SMBKrause.github.io/publication/2016-01-01_a_synthetic_ecology_/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2016-01-01_a_synthetic_ecology_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrence and frequency of disturbance have cumulative effect on methanotrophic activity, abundance, and community structure</title>
+      <link>https://SMBKrause.github.io/publication/2016-01-01_recurrence_and_frequ/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2016-01-01_recurrence_and_frequ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://SMBKrause.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compositional and functional stability of aerobic methane consuming communities in drained and rewetted peat meadows</title>
+      <link>https://SMBKrause.github.io/publication/2015-01-01_compositional_and_fu/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2015-01-01_compositional_and_fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trait-based approaches for understanding microbial biodiversity and ecosystem functioning</title>
+      <link>https://SMBKrause.github.io/publication/2014-01-01_trait-based_approach/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2014-01-01_trait-based_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak phylogenetic signal in physiological traits of methane-oxidizing bacteria</title>
+      <link>https://SMBKrause.github.io/publication/2014-01-01_weak_phylogenetic_si/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2014-01-01_weak_phylogenetic_si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://SMBKrause.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing functional traits and ecological characteristics of methane-oxidizing bacteria as life strategies</title>
+      <link>https://SMBKrause.github.io/publication/2013-01-01_conceptualizing_func/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2013-01-01_conceptualizing_func/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns of methanotrophic communities along a hydrological gradient in a riparian wetland</title>
+      <link>https://SMBKrause.github.io/publication/2013-01-01_spatial_patterns_of_/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2013-01-01_spatial_patterns_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methane source strength and energy flow shape methanotrophic communities in oxygen-methane counter-gradients</title>
+      <link>https://SMBKrause.github.io/publication/2012-01-01_methane_source_stren/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2012-01-01_methane_source_stren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One millimetre makes the difference: High-resolution analysis of methane-oxidizing bacteria and their specific activity at the oxic-anoxic interface in a flooded paddy soil</title>
+      <link>https://SMBKrause.github.io/publication/2012-01-01_one_millimetre_makes/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2012-01-01_one_millimetre_makes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns of iron- and methane-oxidizing bacterial communities in an irregularly flooded, riparian wetland</title>
+      <link>https://SMBKrause.github.io/publication/2012-01-01_spatial_patterns_of_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2012-01-01_spatial_patterns_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Succession of methanotrophs in oxygen-methane counter-gradients of flooded rice paddies</title>
+      <link>https://SMBKrause.github.io/publication/2010-01-01_succession_of_methan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2010-01-01_succession_of_methan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity of methanotrophs: A geostatistical analysis of pmoA-based T-RFLP patterns in a paddy soil</title>
+      <link>https://SMBKrause.github.io/publication/2009-01-01_spatial_heterogeneit/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2009-01-01_spatial_heterogeneit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intersexual niche segregation in Cepero&#39;s Ground-hopper, Tetrix ceperoi</title>
+      <link>https://SMBKrause.github.io/publication/2007-01-01_intersexual_niche_se/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2007-01-01_intersexual_niche_se/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://SMBKrause.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://SMBKrause.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://SMBKrause.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://SMBKrause.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuanlin Li | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/xuanlin-li/</link>
+      <atom:link href="https://SMBKrause.github.io/author/xuanlin-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuanlin Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://SMBKrause.github.io/author/xuanlin-li/Avatar_hubbb719910efe794f524ce95b775de5ae_185540_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Xuanlin Li</title>
+      <link>https://SMBKrause.github.io/author/xuanlin-li/</link>
+    </image>
+    
+  </channel>
+</rss>

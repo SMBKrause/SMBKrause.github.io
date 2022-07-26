@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Ho | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/a.-ho/</link>
+      <atom:link href="https://SMBKrause.github.io/author/a.-ho/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Ho</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>A. Ho</title>
+      <link>https://SMBKrause.github.io/author/a.-ho/</link>
+    </image>
+    
+    <item>
+      <title>Recovery of Methanotrophic Activity Is Not Reflected in the Methane-Driven Interaction Network after Peat Mining</title>
+      <link>https://SMBKrause.github.io/publication/2021-01-01_recovery_of_methanot/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2021-01-01_recovery_of_methanot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental legacy contributes to the resilience of methane consumption in a laboratory microcosm system</title>
+      <link>https://SMBKrause.github.io/publication/2018-01-01_environmental_legacy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2018-01-01_environmental_legacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrence and frequency of disturbance have cumulative effect on methanotrophic activity, abundance, and community structure</title>
+      <link>https://SMBKrause.github.io/publication/2016-01-01_recurrence_and_frequ/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2016-01-01_recurrence_and_frequ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing functional traits and ecological characteristics of methane-oxidizing bacteria as life strategies</title>
+      <link>https://SMBKrause.github.io/publication/2013-01-01_conceptualizing_func/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2013-01-01_conceptualizing_func/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

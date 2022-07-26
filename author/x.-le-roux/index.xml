@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. {Le Roux} | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/x.-le-roux/</link>
+      <atom:link href="https://SMBKrause.github.io/author/x.-le-roux/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. {Le Roux}</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>X. {Le Roux}</title>
+      <link>https://SMBKrause.github.io/author/x.-le-roux/</link>
+    </image>
+    
+    <item>
+      <title>Microbial trait-based approaches for agroecosystems</title>
+      <link>https://SMBKrause.github.io/publication/2022-01-01_microbial_trait-base/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2022-01-01_microbial_trait-base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trait-based approaches for understanding microbial biodiversity and ecosystem functioning</title>
+      <link>https://SMBKrause.github.io/publication/2014-01-01_trait-based_approach/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2014-01-01_trait-based_approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

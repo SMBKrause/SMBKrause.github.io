@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Frenzel | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/p.-frenzel/</link>
+      <atom:link href="https://SMBKrause.github.io/author/p.-frenzel/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Frenzel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>P. Frenzel</title>
+      <link>https://SMBKrause.github.io/author/p.-frenzel/</link>
+    </image>
+    
+    <item>
+      <title>Methane source strength and energy flow shape methanotrophic communities in oxygen-methane counter-gradients</title>
+      <link>https://SMBKrause.github.io/publication/2012-01-01_methane_source_stren/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2012-01-01_methane_source_stren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One millimetre makes the difference: High-resolution analysis of methane-oxidizing bacteria and their specific activity at the oxic-anoxic interface in a flooded paddy soil</title>
+      <link>https://SMBKrause.github.io/publication/2012-01-01_one_millimetre_makes/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2012-01-01_one_millimetre_makes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Succession of methanotrophs in oxygen-methane counter-gradients of flooded rice paddies</title>
+      <link>https://SMBKrause.github.io/publication/2010-01-01_succession_of_methan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2010-01-01_succession_of_methan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity of methanotrophs: A geostatistical analysis of pmoA-based T-RFLP patterns in a paddy soil</title>
+      <link>https://SMBKrause.github.io/publication/2009-01-01_spatial_heterogeneit/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2009-01-01_spatial_heterogeneit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

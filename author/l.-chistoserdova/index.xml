@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Chistoserdova | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/l.-chistoserdova/</link>
+      <atom:link href="https://SMBKrause.github.io/author/l.-chistoserdova/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Chistoserdova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>L. Chistoserdova</title>
+      <link>https://SMBKrause.github.io/author/l.-chistoserdova/</link>
+    </image>
+    
+    <item>
+      <title>Lanthanide-dependent cross-feeding of methane-derived carbon is linked by microbial community interactions</title>
+      <link>https://SMBKrause.github.io/publication/2017-01-01_lanthanide-dependent/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2017-01-01_lanthanide-dependent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A synthetic ecology perspective: How well does behavior of model organisms in the laboratory predict microbial activities in natural habitats?</title>
+      <link>https://SMBKrause.github.io/publication/2016-01-01_a_synthetic_ecology_/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2016-01-01_a_synthetic_ecology_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

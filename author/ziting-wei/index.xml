@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziting Wei | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/ziting-wei/</link>
+      <atom:link href="https://SMBKrause.github.io/author/ziting-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ziting Wei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://SMBKrause.github.io/author/ziting-wei/avatar_hu008cc164ec0037515cee85f6106e8041_101101_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ziting Wei</title>
+      <link>https://SMBKrause.github.io/author/ziting-wei/</link>
+    </image>
+    
+  </channel>
+</rss>

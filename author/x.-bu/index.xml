@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Bu | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/x.-bu/</link>
+      <atom:link href="https://SMBKrause.github.io/author/x.-bu/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Bu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>X. Bu</title>
+      <link>https://SMBKrause.github.io/author/x.-bu/</link>
+    </image>
+    
+    <item>
+      <title>Soil aeration rather than methanotrophic community drives methane uptake under drought in a subtropical forest</title>
+      <link>https://SMBKrause.github.io/publication/2021-01-01_soil_aeration_rather/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2021-01-01_soil_aeration_rather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethylene rather than acetylene inhibits soil methane oxidation rates in a subtropical evergreen forest</title>
+      <link>https://SMBKrause.github.io/publication/2019-01-01_ethylene_rather_than/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2019-01-01_ethylene_rather_than/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil extractable organic C and N contents, methanotrophic activity under warming and degradation in a Tibetan alpine meadow</title>
+      <link>https://SMBKrause.github.io/publication/2019-01-01_soil_extractable_org/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2019-01-01_soil_extractable_org/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

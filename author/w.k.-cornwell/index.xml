@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W.K. Cornwell | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/w.k.-cornwell/</link>
+      <atom:link href="https://SMBKrause.github.io/author/w.k.-cornwell/index.xml" rel="self" type="application/rss+xml" />
+    <description>W.K. Cornwell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>W.K. Cornwell</title>
+      <link>https://SMBKrause.github.io/author/w.k.-cornwell/</link>
+    </image>
+    
+    <item>
+      <title>Weak phylogenetic signal in physiological traits of methane-oxidizing bacteria</title>
+      <link>https://SMBKrause.github.io/publication/2014-01-01_weak_phylogenetic_si/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2014-01-01_weak_phylogenetic_si/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Tian | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/j.-tian/</link>
+      <atom:link href="https://SMBKrause.github.io/author/j.-tian/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Tian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>J. Tian</title>
+      <link>https://SMBKrause.github.io/author/j.-tian/</link>
+    </image>
+    
+    <item>
+      <title>Ethylene rather than acetylene inhibits soil methane oxidation rates in a subtropical evergreen forest</title>
+      <link>https://SMBKrause.github.io/publication/2019-01-01_ethylene_rather_than/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2019-01-01_ethylene_rather_than/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

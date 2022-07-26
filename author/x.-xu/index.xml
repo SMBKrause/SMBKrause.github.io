@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Xu | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/x.-xu/</link>
+      <atom:link href="https://SMBKrause.github.io/author/x.-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>X. Xu</title>
+      <link>https://SMBKrause.github.io/author/x.-xu/</link>
+    </image>
+    
+    <item>
+      <title>Soil extractable organic C and N contents, methanotrophic activity under warming and degradation in a Tibetan alpine meadow</title>
+      <link>https://SMBKrause.github.io/publication/2019-01-01_soil_extractable_org/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2019-01-01_soil_extractable_org/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

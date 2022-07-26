@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L.A.P. Lotz | SMB Krause Lab</title>
+    <link>https://SMBKrause.github.io/author/l.a.p.-lotz/</link>
+      <atom:link href="https://SMBKrause.github.io/author/l.a.p.-lotz/index.xml" rel="self" type="application/rss+xml" />
+    <description>L.A.P. Lotz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SMBKrause.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>L.A.P. Lotz</title>
+      <link>https://SMBKrause.github.io/author/l.a.p.-lotz/</link>
+    </image>
+    
+    <item>
+      <title>No Tangible Effects of Field-Grown Cisgenic Potatoes on Soil Microbial Communities</title>
+      <link>https://SMBKrause.github.io/publication/2020-01-01_no_tangible_effects_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://SMBKrause.github.io/publication/2020-01-01_no_tangible_effects_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
