@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://SMBKrause.github.io/sitemap.xml
